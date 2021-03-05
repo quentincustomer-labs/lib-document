@@ -1,6 +1,4 @@
 {
     "name": "lib/document",
-    "type": "library",
-    "description": "Your package description goes here",
-    "license": "MIT",
+    "type": "library"
 }
